@@ -1,4 +1,4 @@
-# CONVOLUTIONAL NEURAL NETWORK FOR IDENTIFYING OCTA GLAUCOMA SCANS
+# CONVOLUTIONAL NEURAL NETWORK FOR IDENTIFYING OCTA VASCULAR SCANS
 
 ## The Problem
 Optical coherence tomography angiography (OCTA), although a promising image modality to visualize retinal vasculature, is still being investigated for its value in glaucoma diagnosis. Despite the vascular component of glaucoma being relevant to the use of OCTA scans, there is a need for a clinical tool to aid in a more objective diagnosis of glaucoma from OCTA images and database of OCTA images for further application of deep learning. 
