@@ -16,10 +16,10 @@ We propose to develop a deep-learning approach for the diagnosis of glaucoma and
 
 ## Team Members
 
-Team Leader: Dr. Karanjit Kooner, MD, Ophthalmology, https://utswmed.org/doctors/karanjit-kooner/ 
-SysAdmin: Dr. Dinesh Bhatia, Professor, Electrical Engineering, https://profiles.utdallas.edu/dinesh.bhatia
+* Team Leader: Dr. Karanjit Kooner, MD, Ophthalmology, https://utswmed.org/doctors/karanjit-kooner/ 
+* SysAdmin: Dr. Dinesh Bhatia, Professor, Electrical Engineering, https://profiles.utdallas.edu/dinesh.bhatia
 
 Members:
-Binh Vu
-Sruthi Suresh
-Jacob Akwal
+* Binh Vu
+* Sruthi Suresh
+* Jacob Akwal
