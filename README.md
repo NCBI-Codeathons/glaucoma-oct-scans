@@ -24,5 +24,7 @@ We propose to develop a deep-learning approach for the diagnosis of glaucoma and
 * Flex: Binh Vu, voobinh@gmail.com
 * Flex: Jacob Akwal, j@utdallas.edu
 * Flex: Sumanth Kumar Kotareddy, sxk170004@utdallas.edu
+* Flex: Vikas Deo
+
 
  
