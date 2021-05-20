@@ -15,6 +15,14 @@ We propose to develop a deep-learning approach for the diagnosis of glaucoma and
 * Error rate targets are around 70% considering the limited size of the dataset and will be found after the model validated on test data.
 
 ![workflow](https://github.com/NCBI-Codeathons/glaucoma-oct-scans/blob/main/Codeathon%20Workflow%20(1).png)
+### Training and Testing Methodology 
+
+The dataset consists of labeled 565 high-resolution images belonging to 2 categories (Glaucoma and Non Glaucoma). These images are labeled by human labelers using a python script. 
+This dataset consists of variable resolution images, which are down-sampled to a fixed resolution of 300x300. 
+Dataset is divided into three sets: Training, Validation (70%) and Testing (30%) sets.
+CNN Model is trained with different epochs until we reach an optimum accuracy without any model outfitting.
+
+
 ### CNN Model
 
 Different stack of layers that produces an output function when given an input with the help of a differentiable function is called CNN Architecture. 
