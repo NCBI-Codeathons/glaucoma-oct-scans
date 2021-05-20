@@ -4,7 +4,6 @@ import pandas as pd
 import os
 import csv
 
-"""print(os.listdir('/Users/binhvu/Downloads/CODEATHONIII/CODEATHONGLAUCOMA/Abudu91553621'))"""
 
 """
     WHAT THIS DOES: IT TAKES AN UNEDITTED DIRECTORY CALLED CODEATHON III AND DEREFERENCES THE PATIENTS WITHIN THE 
@@ -25,7 +24,7 @@ import csv
         DATA TO BE SAVED TO.
     3. """
 
-Males = {}
+
 
 
 def SettingUpDataFirstTime(GlaucomaFile, PatientIdentifierFile):
