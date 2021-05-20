@@ -35,7 +35,8 @@ CNN Architecture to detect Glaucoma consists of five convolutional layers, three
 * Flex: Binh Vu, voobinh@gmail.com
 * Flex: Jacob Akwal, j@utdallas.edu
 * Flex: Sumanth Kumar Kotareddy, sxk170004@utdallas.edu
-* Flex: Vikas Deo
+* Flex: Vikas Deo, tennisdeo@gmail.com
+
 
 
  
