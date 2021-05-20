@@ -14,6 +14,7 @@ We propose to develop a deep-learning approach for the diagnosis of glaucoma and
 * We also plan on solving another four-class problem, the prediction of the patient's gender and their diagnosis.
 * Error rate targets are around 70% considering the limited size of the dataset and will be found after the model validated on test data.
 
+![workflow](https://github.com/NCBI-Codeathons/glaucoma-oct-scans/blob/main/Codeathon%20Workflow%20(1).png)
 ### CNN Model
 
 Different stack of layers that produces an output function when given an input with the help of a differentiable function is called CNN Architecture. 
