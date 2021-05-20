@@ -14,7 +14,17 @@ We propose to develop a deep-learning approach for the diagnosis of glaucoma and
 * We also plan on solving another four-class problem, the prediction of the patient's gender and their diagnosis.
 * Error rate targets are around 70% considering the limited size of the dataset and will be found after the model validated on test data.
 
-(We will also be adding information about the network's framework).
+### CNN Model
+
+Different stack of layers that produces an output function when given an input with the help of a differentiable function is called CNN Architecture. 
+Layers generally are 
+* Convolutional Layer: associated with a convolutional filter and a nonlinear activation function known as ReLU(Rectified Linear Unit). 
+* Pooling Layer: max pool function
+* Fully Connected Layer
+* Activation Function layer.
+* In addition to these layers there might also be Normalization layer and Dropout Layers to improve the accuracy results. 
+CNN Architecture to detect Glaucoma consists of five convolutional layers, three max-pooling layers, two normalization layers, two fully connected layers, and one softmax layer. 
+
 
 ## Team Members
 
